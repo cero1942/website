@@ -1,0 +1,60 @@
+{
+    "kose": [
+        {
+            "id": 1,
+            "fullness": 10,
+            "location": {
+                "lat": 49.189717,
+                "long": 16.61416
+            }
+        },
+        {
+            "id": 2,
+            "fullness": 20,
+            "location": {
+                "lat": 49.192395,
+                "long": 16.610888
+            }
+        },
+        {
+            "id": 3,
+            "fullness": 30,
+            "location": {
+                "lat": 49.169717,
+                "long": 16.63416
+            }
+        },
+        {
+            "id": 4,
+            "fullness": 40,
+            "location": {
+                "lat": 49.209717,
+                "long": 16.62116
+            }
+        },
+        {
+            "id": 5,
+            "fullness": 50,
+            "location": {
+                "lat": 49.199717,
+                "long": 16.61016
+            }
+        },
+        {
+            "id": 6,
+            "fullness": 60,
+            "location": {
+                "lat": 49.181717,
+                "long": 16.64416
+            }
+        },
+        {
+            "id": 7,
+            "fullness": 70,
+            "location": {
+                "lat": 49.219717,
+                "long": 16.62216
+            }
+        }
+    ]
+}
